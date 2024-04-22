@@ -1,0 +1,18 @@
+body{
+    color: rgb(3, 22, 16);
+    background-color: rgb(127, 127, 163)
+}
+button{
+    color:blueviolet;
+     border:black
+     
+}
+h2{
+    color:rgb(114, 51, 160);
+}
+h1{
+    color:rgb(114, 51, 160);
+}
+form {
+  color:rgb(64, 12, 114);  
+}
